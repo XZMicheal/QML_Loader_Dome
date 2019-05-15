@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginWindow.qml</file>
+        <file>WorkWindow.qml</file>
+        <file>Image/Login/address_enter.png</file>
+        <file>Image/Login/address_exit.png</file>
+        <file>Image/Login/backgroud.jpg</file>
+        <file>Image/Login/log.png</file>
+        <file>Image/Login/log6060.png</file>
+        <file>Image/Login/password_enter.png</file>
+        <file>Image/Login/password_exit.png</file>
+        <file>Image/Login/port_enter.png</file>
+        <file>Image/Login/port_exit.png</file>
+        <file>Image/Login/username_enter.png</file>
+        <file>Image/Login/username_exit.png</file>
+        <file>Image/Login/warning.png</file>
+        <file>Image/Login/whiteborder.png</file>
+        <file>LoginWindow/UserInput.qml</file>
+        <file>LoginWindow/WaitConnect.qml</file>
+    </qresource>
+</RCC>
